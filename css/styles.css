@@ -1,0 +1,39 @@
+body {
+    background-color: #333333;
+    
+    
+}
+#header-border {
+    border-bottom: 4px solid #7d97ad; 
+    
+}
+ul {
+    list-style-type: none;
+}
+#intro {
+    font-family: 'Lato', sans-serif;
+    color: #00b4ff;
+    font-weight: 200;
+
+}
+#intro-description {
+    font-family: 'Lato', sans-serif;
+    color: #7e80ff;
+    font-weight: 300;
+}
+.icons {
+    color: whitesmoke;
+    padding: 5em;
+}
+.container-properties {
+    padding: 2%;
+    border-radius: 15px;
+    border: 1px solid #00b4ff;
+    margin-top: 2%;
+}
+.description-text {
+    font-family: 'Source Sans Pro', sans-serif;
+    color: white;
+    text-align: center;
+    font-weight: 100;
+}
