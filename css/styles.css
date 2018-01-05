@@ -1,5 +1,8 @@
 body {
     background-color: #333333;
+    margin: 4%;
+    -webkit-text-stroke: 0.2px;
+    -webkit-font-smoothing: subpixel-antialiased;
     
     
 }
@@ -23,7 +26,7 @@ ul {
 }
 .icons {
     color: whitesmoke;
-    padding: 5em;
+    
 }
 .container-properties {
     padding: 2%;
@@ -36,4 +39,14 @@ ul {
     color: white;
     text-align: center;
     font-weight: 100;
+}
+#for-padding {
+    padding-top: 20px;
+}
+h1, h3 {
+    text-align: right;
+    
+}
+#change-color {
+    color:white;
 }
